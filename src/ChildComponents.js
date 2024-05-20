@@ -55,7 +55,7 @@ const ChildComponent2 = () => {
             <button type="button" class="btn btn-light">Purchase Now</button>
             </a>
         </div>
-  </div>
+    </div>
         <div class="row mb-5">
             <div class="col-sm">
             <img className='mb-4' src="./effect2.png" alt="effect1" height={100} width={100}></img>
