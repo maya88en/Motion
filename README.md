@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# This is Project is done as a replicate for the home page of the provided website Motion Art Effect
+
+### Live Link: https://motion-blond-phi.vercel.app/
+
+### React Js, BootStrap
+
+### Font Family:  "Sora" and  "Outfit", 
+### Gradient Color: linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+
+### There is still an More update for Animation Styles 
+
+
+
+
+
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
