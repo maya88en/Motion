@@ -1,0 +1,92 @@
+.navbar {
+  height: 90px;
+  margin-top: -20px;
+}
+
+.btn-success {
+  width: 100px;
+}
+
+button {  
+  width: 200px;
+}
+
+body {
+  background-color: black;
+  font-family: 'Sora';
+  padding-top: 200px;
+}
+
+h1 {
+  font-size: 80px;
+  background: -webkit-linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+h5 {
+  background: -webkit-linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2, p, div {
+color: white;
+font-family: 'Outfit';
+}
+
+.logo {
+  margin-bottom: 100px;
+}
+
+.star {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.transparant {
+  color: #EEE5FFBD;
+}
+
+.envato {
+  background: -webkit-linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+  color: white;
+  font-size: 20px;
+  width: 300px;
+}
+
+.apply {
+  background-color: #282727;
+  width: 47%; 
+  margin-right: 30px;
+}
+
+.browser {
+  width: 100%;
+  background-color: #282727;
+}
+
+.feature {
+  background-color: #282727;
+  margin-right: 10px;
+  margin-left: 20px;
+  width: 30%;
+}
+
+footer {
+  background: -webkit-linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+  padding: 5px;
+  width: 100%;
+  font-size: 12px;
+  margin-top: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
